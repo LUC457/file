@@ -1,0 +1,92 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    position: relative;
+    font-weight: bold;
+    left: 130px;
+    top: 140px;
+    color: rgb(181, 237, 224);
+}
+h2{
+    position: relative;
+    font-weight: bold;
+    left: 140px;
+    top: 280px;
+    color: rgb(181, 237, 224);
+}
+#back{
+    position: relative;
+    height:600px;
+    width: 100%;
+   background: linear-gradient(to right,#00093C,#2d0b00);
+    top:152px;
+    border-radius: 70px 70px 0px 0px;
+}
+button{
+    position: relative;
+    height: 50px;
+    width: 200px;
+    top: 200px;
+    left: 130px;
+    background-color: rgb(216, 157, 243);
+    border-radius: 20px 20px 20px 20px;
+}
+button:hover {
+    background-color: #3ac3cd;
+  }
+  
+.menu{
+    position: relative;
+  bottom: 60px;
+    left: 600px;
+}
+ul{
+    list-style: none;
+}
+ul li{
+    text-decoration: none;
+    padding-top: 30px;
+    font-size: 20px;
+    font-weight: bold;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(181, 237, 224);
+}
+.bord{
+    position: relative;
+    bottom: 270px;
+    left: 800px;
+}
+ul{
+     list-style: none;
+}
+ul li{
+     text-decoration: none;
+     padding-top: 30px;
+     font-size: 20px;
+     font-weight: bold;
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(181, 237, 224);
+}
+h3{
+    position: relative;
+    font-weight: bold;
+    left: 1050px;
+    top: 170px;
+    color: rgb(181, 237, 224);
+    font-size: 30px;
+}
+p{
+    position: relative;
+    font-weight: bold;
+    left: 1050px;
+    top: 200px;
+    color: rgb(181, 237, 224);
+    font-size: 20px; 
+}
+
